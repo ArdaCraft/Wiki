@@ -13,7 +13,7 @@ const forumUrl = "https://forums.ardacraft.me";
 const siteConfig = {
   title: 'ArdaCraft Wiki', // Title for your website.
   tagline: 'Docs and Information',
-  url: 'https://ardacraft.github.io', // Your website URL
+  url: 'https://wiki.ardacraft.me', // Your website URL
   baseUrl: '/', // Base URL for your project */
 
   // Used for publishing and more
