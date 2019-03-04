@@ -27,6 +27,7 @@ const siteConfig = {
     {doc: 'intro', label: 'Docs'},
     {href: 'https://ardacraft.me', label: 'Home'},
     {href: 'https://forums.ardacraft.me', label: 'Forums'},
+    {search: true},
   ],
 
   /* path to images for header/footer */
@@ -73,6 +74,9 @@ const siteConfig = {
   // Open Graph and Twitter card images.
   ogImage: 'img/logo.png',
   twitterImage: 'img/logo.png',
+  
+  // CNAME
+  CNAME: 'wiki.ardacraft.me',
 
   // Show documentation's last contributor's name.
   // enableUpdateBy: true,
