@@ -7,7 +7,7 @@
 
 // See https://docusaurus.io/docs/site-config for all the possible
 const repoUrl = "https://github.com/ArdaCraft/Wiki";
-cost forumUrl = "https://forums.ardacraft.me";
+const forumUrl = "https://forums.ardacraft.me";
 
 // site configuration options.
 const siteConfig = {
