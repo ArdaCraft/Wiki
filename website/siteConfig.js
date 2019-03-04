@@ -6,28 +6,15 @@
  */
 
 // See https://docusaurus.io/docs/site-config for all the possible
+const repoUrl = "https://github.com/ArdaCraft/Wiki";
+cost forumUrl = "https://forums.ardacraft.me";
+
 // site configuration options.
-
-// List of projects/orgs using your project for the users page.
-const users = [
-  {
-    caption: 'User1',
-    // You will need to prepend the image path with your baseUrl
-    // if it is not '/', like: '/test-site/img/docusaurus.svg'.
-    image: '/img/docusaurus.svg',
-    infoLink: 'https://www.facebook.com',
-    pinned: true,
-  },
-];
-
 const siteConfig = {
   title: 'ArdaCraft Wiki', // Title for your website.
-  tagline: 'Docs and information',
+  tagline: 'Docs and Information',
   url: 'https://ardacraft.github.io', // Your website URL
-  baseUrl: '/Wiki', // Base URL for your project */
-  // For github.io type URLs, you would set the url and baseUrl like:
-  //   url: 'https://facebook.github.io',
-  //   baseUrl: '/test-site/',
+  baseUrl: '/Wiki/', // Base URL for your project */
 
   // Used for publishing and more
   projectName: 'Wiki',
@@ -37,7 +24,11 @@ const siteConfig = {
   //   organizationName: 'JoelMarcey'
 
   // For no header links in the top nav bar -> headerLinks: [],
-  headerLinks: [],
+  headerLinks: [
+    { doc: "installation", label: "Docs" },
+    { href: forumUrl, label: "Forums", external: true },
+    { href: repoUrl, label: "GitHub", external: true }
+  ],
 
   // If you have users set above, you add it here:
   users,
@@ -49,8 +40,8 @@ const siteConfig = {
 
   /* Colors for website */
   colors: {
-    primaryColor: '#4d4d4d',
-    secondaryColor: '#4d4d4d',
+    primaryColor: '#2E8555',
+    secondaryColor: '#205C3B',
   },
 
   /* Custom fonts for website */
