@@ -10,18 +10,6 @@
 const repoUrl = "https://github.com/ArdaCraft/Wiki";
 const forumUrl = "https://forums.ardacraft.me";
 
-// List of projects/orgs using your project for the users page.
-const users = [
-  {
-    caption: 'User1',
-    // You will need to prepend the image path with your baseUrl
-    // if it is not '/', like: '/test-site/img/docusaurus.svg'.
-    image: '/img/docusaurus.svg',
-    infoLink: 'https://www.facebook.com',
-    pinned: true,
-  },
-];
-
 const siteConfig = {
   title: 'ArdaCraft Wiki', // Title for your website.
   tagline: 'Docs and Information',
@@ -36,24 +24,23 @@ const siteConfig = {
   //   organizationName: 'JoelMarcey'
   // For no header links in the top nav bar -> headerLinks: [],
   headerLinks: [
-    {doc: 'doc1', label: 'Docs'},
-    {doc: 'doc4', label: 'API'},
-    {page: 'help', label: 'Help'},
-    {blog: true, label: 'Blog'},
+    {doc: 'intro', label: 'Docs'},
+    {href: 'https://ardacraft.me', label: 'Home'},
+    {href: 'https://forums.ardacraft.me', label: 'Forums'},
   ],
 
   // If you have users set above, you add it here:
   users,
 
   /* path to images for header/footer */
-  headerIcon: 'img/docusaurus.svg',
-  footerIcon: 'img/docusaurus.svg',
+  headerIcon: 'img/logo.svg',
+  footerIcon: 'img/logo.svg',
   favicon: 'img/favicon.png',
 
   /* Colors for website */
   colors: {
-    primaryColor: '#2E8555',
-    secondaryColor: '#205C3B',
+    primaryColor: '#2e3033',
+    secondaryColor: '#2e3033',
   },
 
   /* Custom fonts for website */
@@ -71,7 +58,7 @@ const siteConfig = {
   */
 
   // This copyright info is used in /core/Footer.js and blog RSS/Atom feeds.
-  copyright: `Copyright © ${new Date().getFullYear()} Your Name or Your Company Name`,
+  copyright: `© ${new Date().getFullYear()} ArdaCraft. All Rights Reserved.`,
 
   highlight: {
     // Highlight.js theme to use for syntax highlighting in code blocks.
@@ -87,8 +74,8 @@ const siteConfig = {
   cleanUrl: true,
 
   // Open Graph and Twitter card images.
-  ogImage: 'img/docusaurus.png',
-  twitterImage: 'img/docusaurus.png',
+  ogImage: 'img/logo.png',
+  twitterImage: 'img/logo.png',
 
   // Show documentation's last contributor's name.
   // enableUpdateBy: true,
