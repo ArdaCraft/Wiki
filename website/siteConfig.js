@@ -29,9 +29,6 @@ const siteConfig = {
     {href: 'https://forums.ardacraft.me', label: 'Forums'},
   ],
 
-  // If you have users set above, you add it here:
-  users,
-
   /* path to images for header/footer */
   headerIcon: 'img/logo.svg',
   footerIcon: 'img/logo.svg',
