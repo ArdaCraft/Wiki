@@ -1,6 +1,4 @@
 ---
-id: doc4
-title: Other Document
+id: commands
+title: Commands
 ---
-
-this is another document

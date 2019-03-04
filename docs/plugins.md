@@ -1,6 +1,4 @@
 ---
-id: doc5
-title: Fifth Document
+id: plugins
+title: Plugins
 ---
-
-Another one
