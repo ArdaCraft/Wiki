@@ -26,7 +26,7 @@ const siteConfig = {
   title: 'ArdaCraft Wiki', // Title for your website.
   tagline: 'Docs and Information',
   url: 'https://ardacraft.github.io', // Your website URL
-  baseUrl: '/Wiki/', // Base URL for your project */
+  baseUrl: '/', // Base URL for your project */
 
   // Used for publishing and more
   projectName: 'Wiki',
