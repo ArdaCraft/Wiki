@@ -36,7 +36,7 @@ class Footer extends React.Component {
             )}
           </a>
           <div>
-            <h5>Modpack</h5>
+            <h5>Pages</h5>
             <a href={this.docUrl('installation.html', this.props.language)}>
               Installation
             </a>
