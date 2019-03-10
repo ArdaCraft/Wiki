@@ -29,7 +29,7 @@ Install steps:
 ![alt text](https://i.imgur.com/11QE6mh.png)
 
 5. The launcher may take serveral minutes to download all the needed files depending on your connection.
-6. Once everything is installed Minecraft will start. **You're game may freeze on startup and you may have a (not responding) message, this is normal just let it load.**
+6. Once everything is installed Minecraft will start. **Your game may freeze on startup and you may have a (not responding) message, this is normal just let it load.**
 7. Once you are on the main menu screen, go to `Options` then `Resource Packs...` and move the `AC_Overlay.zip` file above the `Conquest Reforged.zip`
     - This is what your Resource Packs page should look like:
 
