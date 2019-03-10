@@ -3,7 +3,7 @@ id: arnor_ruins
 title: Arnor Ruins
 ---
 
-**Planning**
+## Planning
 
 If you are leading an Arnorian ruined town, you'll need to lay everything out in wool first. Though the [Project Planning Guide](https://wiki.ardacraft.me/docs/project_planning) covers the basics of planning a project, there are some specifics to address.
 
@@ -19,16 +19,16 @@ Secondly, if you are laying out ruins, please make sure to make the house layout
 
 The layout on the left of this image is too small, as its house foundations are the same size (if not smaller) than hobbit houses (shown in the centre). The layout on the right is much better, as the houses are noticeably larger. Remember that the people who lived in these houses were literally twice the height of hobbits!
 
-**City/Town Walls**
+## City/Town Walls
 
 This all really depends on the thickness of the walls you're building. However, more often than not these walls will usually have collapsed into an artificial hill of sorts. The larger the wall (think Annúminas), the more rock will be seen. However, you should curb your enthusiasm when it comes to walls as the tendency may be towards making sure whoever sees it knows it's a wall. **We're building ruins. They are always difficult to interpret.** Walls should have grassy mounds flanking each side of the wall, as that is part of the upper wall that has collapsed, allowing grass to grow over it.
 
 
-**Towers**
+## Towers
 
 A lot of thought needs to go into towers, even more so than the walls they are a part of. You should always think about **where** this tower has been built. Is it on flat terrain? Is it in a marsh? On a hill? Use this information to structure your ruins. A hill will have changed over the last 1600 years. The ground may be weaker, causing the tower to collapse more than it would on harder or flatter ground. A marsh will engulf a structure of such size. Always consider the weather as well. You may think that a tower will be mostly untouched on flat terrain, but is it in a valley that could funnel wind? What about rain? How far north is it? Freeze thaw is a very damaging process to buildings. In regards to the seemingly favoured leaning towers, once again, location and weather are key. A marsh would never sustain such a structure, but flat, hard terrain might. I would, as a rule, caution against them. They look impressive, but they are more likely than not, unrealistic in the grand scheme of things. These structures are way older than the leaning towers you see today!
 
-**Houses**
+## Houses
 
 No house would exist in its original form. As a matter of fact, no house would really exist beyond a few small, grass covered walls marking out where a house would be, and possibly the odd doorway, though this is unlikely. Once again, weather and location play a big role, but so do the materials the houses are made out of. Wood would never survive for 1600 years, thus the house would cease to exist. Stone, however, would collapse but still leave evidence. Further, if a house is built right by a river, would it still be able to be seen? Is it on a floodplain? Make note that the interior (or what would have been the interior) would not be a flat surface, but would have lumps of grass littered over it from where the roof has collapsed. Also remember that it is usually the case of the larger the room in a house, the less of it you'll find as ruins. As these are unexcavated do not take it upon yourselves to leave archeaological evidence such as vases, pots, and weapons in these ruins.
 
@@ -68,34 +68,34 @@ Finally, add a generous amount of flora. Use placable plants that are found arou
 
 Alongside this, add some rock models around the inside of the ruin to give the impression that some parts of the building are poking above the surface.
 
-**Roads, Fora and Town Centres**
+## Roads, Fora and Town Centres
 
 These areas have not been trodden on for at least 1600 years. No traffic has been on these roads for the same amount of time. Therefore, all we should see of these areas is an unusually flat, grassy surface. Nothing more, nothing less.
 
-**Farms**
+## Farms
 
 If you look at farms these days that have been abandoned for around 60 years, you will first notice that they are almost entirely taken over by vegetation. The same should really be said for these ruins. They should look like a house within a town or city, but be overcome by the local wildlife. Their fields would be meadows, and not a shred of cobblestone wall or fences will be seen. You should really never know that these were once ploughed fields.
 
 
-**Archways**
+## Archways
 
 This has its own category as it is an odd one. Generally, if an archway is too thin to hold much more than a further wall above it, there would be no archway. However, if, like on the planned palace, there is an archway supported by huge, thick walls and the archway itself is of the same calibre, it will remain, just heavily cracked and damaged. Remember, again, that weather and location are key. Freeze thaw may destroy the sturdiest of archways, if given enough time.
 
 
-**Piers**
+## Piers
 
 These depend on the water that they strech out into. If they strech into the sea, it is likely (due to our assuption that they would have used the structural methods of the Romans) that these piers would still be very much structured. However, we must assume the same cannot be said for piers stretching into fresh water. They would be large clumps of rocks. Jetties and piers made of wood would no longer exist.
 
 
-**Special structures (Fountains, statues etc)**
+## Special structures (Fountains, statues etc)
 
 Wouldn't exist in any noticable form beyond mounds of grass where they were located.
 
-**Bridges**
+## Bridges
 
 Wouldn't exist.
 
-**Further notes**
+## Further notes
 
 - If an interior area, due to its own support, survived beneath rubble it would survive in the condition it was in before it was closed in.
 - Structures on hilltops would be more susceptible to wind and rain erosion.
