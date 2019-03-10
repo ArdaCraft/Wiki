@@ -76,7 +76,7 @@ const siteConfig = {
   twitterImage: 'img/logo.png',
   
   // CNAME
-  CNAME: 'wiki.ardacraft.me',
+  cname: 'wiki.ardacraft.me',
 
   // Show documentation's last contributor's name.
   // enableUpdateBy: true,
