@@ -16,9 +16,9 @@ Start off by downloading the launcher from our github page:
 * If you're on Linux or Mac grab the `.jar` [here](https://github.com/ArdaCraft/ACLauncher/releases/download/v4.3.5/ArdaCraftLauncher-4.3.5.jar)
 
 Install steps:
-1. Run your downloaded launcher `You may get a message that says this is not a trusted program, run it anyway.`
+1. Run your downloaded launcher **You may get a message that says this is not a trusted program, run it anyway.**
     - Note that the ArdaCraft Launcher will default install to a folder called `ArdaCraft Launcher` in your `C:\Users\%yourusername\Documents` folder.
-2. Once it is installed, select the Modpack which you prefer. The `ArdaCraft Modpack 1.12.2` pack is the preferred version as highlighted below. The Conquest Reforged versions do not include the ArdaCraft [Resourcepack](link), so if you plan on joining the ArdaCraft server be sure to pick one of the ArdaCraft Modpacks.
+2. Once it is installed, select the Modpack which you prefer. The `ArdaCraft Modpack 1.12.2` pack is the preferred version as highlighted below. The Conquest Reforged versions do not include the ArdaCraft [Resourcepack](https://github.com/ArdaCraft/AC_Overlay/releases/latest), so if you plan on joining the ArdaCraft server be sure to pick one of the ArdaCraft Modpacks.
 
 
 ![alt text](https://i.imgur.com/uTo872D.jpg)
@@ -29,7 +29,7 @@ Install steps:
 ![alt text](https://i.imgur.com/11QE6mh.png)
 
 5. The launcher may take serveral minutes to download all the needed files depending on your connection.
-6. Once everything is install Minecraft will start **you're game may freeze on startup and you may have a (not responding) message, this is normal just let it load.**
+6. Once everything is installed Minecraft will start. **You're game may freeze on startup and you may have a (not responding) message, this is normal just let it load.**
 7. Once you are on the main menu screen, go to `Options` then `Resource Packs...` and move the `AC_Overlay.zip` file above the `Conquest Reforged.zip`
     - This is what your Resource Packs page should look like:
 
@@ -39,7 +39,7 @@ Install steps:
 
 ## Manual 
 
-If you prefer to use the default Minecraft Launcher, or have troubles with the Launcher you can do a self-install
+If you prefer to use the default Minecraft Launcher, or have troubles with the ArdaCraft Launcher, you can do a self-install.
 
 1. First install [Forge](http://files.minecraftforge.net/maven/net/minecraftforge/forge/index_1.12.2.html) for Minecraft 1.12.2.
 2. Run Minecraft with the Forge profile enabled.
