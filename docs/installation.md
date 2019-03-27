@@ -30,16 +30,13 @@ Install steps:
 
 5. The launcher may take serveral minutes to download all the needed files depending on your connection.
 6. Once everything is installed Minecraft will start. **Your game may freeze on startup and you may have a (not responding) message, this is normal just let it load.**
-7. Once you are on the main menu screen, go to `Options` then `Resource Packs...` and move the `AC_Overlay.zip` file above the `Conquest Reforged.zip`
-    - This is what your Resource Packs page should look like:
-
-![alt text](https://i.imgur.com/fO8umXF.png)
-
-8. You now have everything you need to join the server. The IP is `mc.ardacraft.me` and you can view other conquest servers with the arrow on the right hand side of the Multiplayer page.
+7. You now have everything you need to join the server. The IP is `mc.ardacraft.me` and you can view other conquest servers with the arrow on the right hand side of the Multiplayer page.
 
 ## Manual 
 
 If you prefer to use the default Minecraft Launcher, or have troubles with the ArdaCraft Launcher, you can do a self-install.
+
+- You can download the mods yourself, or download the mods used in our launcher [here](https://github.com/ArdaCraft/modpack/releases).
 
 1. First install [Forge](http://files.minecraftforge.net/maven/net/minecraftforge/forge/index_1.12.2.html) for Minecraft 1.12.2.
 2. Run Minecraft with the Forge profile enabled.
