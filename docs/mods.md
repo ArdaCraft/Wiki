@@ -68,8 +68,8 @@ Better Foliage
  - Version: 1.05
  
  Sound Physiscs
- - [Link](https://github.com/daipenger/Sound-Physics)
- - Authors: Sonic Ether & diapenger
+ - [Link](https://github.com/djpadbit/Sound-Physics)
+ - Authors: Sonic Ether & diapenger & djpadbit
  - Version: 1.0.4
  
  Stellar Sky
