@@ -70,7 +70,7 @@ Better Foliage
  Sound Physiscs
  - [Link](https://github.com/djpadbit/Sound-Physics)
  - Authors: Sonic Ether & diapenger & djpadbit
- - Version: 1.0.4
+ - Version: 1.0.6
  
  Stellar Sky
  - [Link](https://minecraft.curseforge.com/projects/stellar-sky)
