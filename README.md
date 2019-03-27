@@ -6,7 +6,7 @@ A wiki for general server info
 
 ```
 git clone git@github.com:ardacraft/wiki.git
-cd reaction-docs
+cd wiki
 ```
 
 ## Contributing
