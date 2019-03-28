@@ -7,7 +7,7 @@ title: Mods
 Forge
 - [Link](https://files.minecraftforge.net/)
 - Author: LexManos
-- Version: 14.23.3.2655
+- Version: 14.23.5.2823
 
 Conquest Reforged
 - [Link](https://conquestreforged.com/)
@@ -27,7 +27,7 @@ NoClip
 Optifine
 - [Link](https://optifine.net/)
 - Author: sp641x
-- Version: U_E2
+- Version: U_E3
 
 LiteLoader
 - [Link](http://www.liteloader.com)
@@ -40,22 +40,27 @@ LiteLoader
 Better Foliage
  - [Link](https://minecraft.curseforge.com/projects/better-foliage)
  - Author: Octarine-noise
- - Version: 1.10
+ - Version: 2.2.0
  
  CMDCam
  - [Link](https://minecraft.curseforge.com/projects/cmdcam)
  - Author: CreativeMD
- - Version: 1.3.0
+ - Version: 1.4.2
+ 
+ CreativeCore
+ - [Link](https://minecraft.curseforge.com/projects/creativecore)
+ - Author: CreativeMD
+ - Version: 1.9.41
  
  Dynamic Surroundings
  - [Link](https://minecraft.curseforge.com/projects/dynamic-surroundings)
  - Author: OreCruncher
- - Version: 3.4.9.13
+ - Version: 3.5.4.3
  
  Journey Map
  - [Link](https://minecraft.curseforge.com/projects/journeymap)
  - Authors: techbrew & mysticdrew
- - Version: 5.5.2
+ - Version: 5.5.4
  
  Tabby Chat 2
  - [Link](https://minecraft.curseforge.com/projects/tabbychat-2)
@@ -75,10 +80,26 @@ Better Foliage
  Stellar Sky
  - [Link](https://minecraft.curseforge.com/projects/stellar-sky)
  - Author: jriwanek
- - Version: 0.5.2.8
+ - Version: 0.5.3.2
+ 
+  Stellar Sky API
+ - [Link](https://minecraft.curseforge.com/projects/stellar-api)
+ - Author: jriwanek
+ - Version: 0.4.2.9
  
  WorldEdit CUI
  - [Link](https://minecraft.curseforge.com/projects/worldeditcui-forge-edition-2)
  - Author: hexosse
- - Version: 2.1.2
+ - Version: 2.2.0
  
+ Forgelin
+ - [Link](https://minecraft.curseforge.com/projects/shadowfacts-forgelin)
+ - Author: shadowfactsmc
+ - Version: 1.8.2
+ 
+ ## Shaders
+ 
+ Conquest of the Sun
+ - [Link](https://johanfossum.wixsite.com/trilitons-shaders)
+ - Author: triliton
+ - Version: 5.3
