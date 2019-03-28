@@ -13,4 +13,5 @@
 <url> <loc>https://wiki.ardacraft.me/docs/project_planning</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://wiki.ardacraft.me/docs/project_planning" /> </url>
 <url> <loc>https://wiki.ardacraft.me/docs/resourcepack</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://wiki.ardacraft.me/docs/resourcepack" /> </url>
 <url> <loc>https://wiki.ardacraft.me/docs/rohan_houses</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://wiki.ardacraft.me/docs/rohan_houses" /> </url>
+<url> <loc>https://wiki.ardacraft.me/docs/support</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://wiki.ardacraft.me/docs/support" /> </url>
 </urlset>
