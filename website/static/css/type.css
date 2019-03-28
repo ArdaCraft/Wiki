@@ -8,11 +8,6 @@ a:hover {
   text-decoration: none;
 }
 
-a > code {
-  color: #2e3033;
-  text-decoration: underline;
-}
-
 a:hover > code {
   text-decoration: none;
 }
