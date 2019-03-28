@@ -3,11 +3,3 @@ a {
   color: #0088cc;
   text-decoration: none;
 }
-
-a:hover {
-  text-decoration: none;
-}
-
-a:hover > code {
-  text-decoration: none;
-}
