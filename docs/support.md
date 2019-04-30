@@ -18,16 +18,16 @@ A good starting point for modded minecraft is 2GB.
 Follow the steps taken in the video to open the launch options for your modpack profile.  
 Under 'JVM Args' modify the `-Xmx#G` value, changing the `#` to the number of Gigabytes you want to assign.
 This will become the maximum amount of ram that the game can use.
-<video src="resources/mojang-jvm-args.mp4" width="560" height="350" controls preload></video>&nbsp;
+<video src="../resources/mojang-jvm-args.mp4" width="560" height="350" controls preload></video>&nbsp;
 
 #### Modpack Launcher
 Open the launcher Options window and modify the 'Maximum memory' value.  
 **Note - this value is in Megabytes, not Gigabytes.**  
 There are 1024 Megabytes in 1 Gigabyte, so to allocate 2 Gigabytes of ram, enter a value of 2048.
-<video src="resources/launcher-jvm-args.mp4" width="560" height="350" controls preload></video>&nbsp;
+<video src="../resources/launcher-jvm-args.mp4" width="560" height="350" controls preload></video>&nbsp;
 
 ##### Regarding the other settings:
-- 'Minimum memory' - this should never be higher than the 'Maximum memory' value. 
+- 'Minimum memory' - this should never be higher than the 'Maximum memory' value.
 - 'PermGen' - this has absolutely no effect when running the game with Java 8 or above, leave it alone, or set it to any value - it doesn't matter!
 
 ## Finding Logs & Crash-Reports
