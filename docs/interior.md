@@ -16,7 +16,7 @@ When creating an interior the first and most important factor is purpose. It mak
 
 ## Detail
 Perhaps the second most important factor when developing your interior is detail. Without detailing your interior it begins to become bland and mundane. Here are a few scenarios where detailing your interior has a large impact.
-![alt text(]https://ardacraft.s3-us-west-2.amazonaws.com/original/1X/241dc5c72b339292cbd554fc9d52e2c646c2537d.png)
+![alt text(https://ardacraft.s3-us-west-2.amazonaws.com/original/1X/241dc5c72b339292cbd554fc9d52e2c646c2537d.png)
 ![alt text](https://ardacraft.s3-us-west-2.amazonaws.com/original/1X/478e608251407bb0edecdf324899341ed8dc9242.png)
 
 
