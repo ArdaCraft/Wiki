@@ -259,3 +259,5 @@ It is therefore important to make your barn(s) big enough to house all the anima
 ![alt text](https://i.imgur.com/rh8Hpl2.jpg)
 
 It is also possible (and was common in the Middle Ages) for farmers and their families to live in the same building as their animals, combining the barn and farmhouse. A boô is an old Saxon building where a farmer could spend the night with his cattle if he let them graze far outside the village.
+
+> This guide was created by Benzathoth
