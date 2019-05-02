@@ -9,7 +9,7 @@ This guide will explain the basics of how mediaeval-era farming worked, and how 
 
 Where would different types of agricultural production take place? We can approximate this using the Von Thünen model, which describes where various types of agricultural activity would take place in relation to a large settlement (which Thünen refers to as a “city”).
 
-// IMG
+![alt text](https://i.imgur.com/Kqxc29B.png)
 
 Thünen's model of agricultural land, created before industrialization, made the following simplifying assumptions:
 
@@ -41,7 +41,7 @@ Ultimately, these factors (as well as others) mean that you would never see perf
 
 Here is how a real, historical farm around a small settlement could be categorised according to Thünen’s zones:
 
-// IMG
+![alt text](https://i.imgur.com/j5MpS1Q.jpg)
 
 As this is a small settlement, we do not see obvious ‘rings’ - the houses are right next to the pasture, for example. For larger settlements, the model becomes more important. London in 1300 had zones of agricultural activity:
 
@@ -54,17 +54,17 @@ As this is a small settlement, we do not see obvious ‘rings’ - the houses ar
 
 This theory can also be seen in and around Bree on the server, where red is market gardening/allotments, yellow is crops, and blue is pastures and fields for livestock:
 
-// IMG
+![alt text](https://i.imgur.com/MjI6SGN.png)
 
 Here are some more examples from the Beorning settlements. The fields marked ‘1,2.3’ represent the three-field system for crops, covered later on in this document. The latter two plans don’t include allotments/market gardening, as these were added closer to the houses:
 
-// IMG
+![alt text](https://i.imgur.com/GdoHEYO.jpg)
 
-// IMG
+![alt text](https://i.imgur.com/YbZHick.jpg)
 
 Ignore the orange/yellow lines and the pre-existing farmland on this one:
 
-// IMG
+![alt text](https://i.imgur.com/uibr3QL.jpg)
 
 Hopefully, this has shown how your farms should be planned out. Now it’s time to examine what you’ll need in these different zones.
 
@@ -78,7 +78,7 @@ The best example of this on the server can be seen inside the hedge in Bree.
 
 In the Middle Ages, peasant farmers’ vegetable plots were planted with vegetables which could be stored, such as cabbages, carrots, peas and beans (don’t use potatoes, as these did not exist in mediaeval Europe). These vegetables were used to feed the farm’s inhabitants but were also produced for sale on the market. They might also grow hops for beer, or keep bees for honey and wax.
 
-// IMG
+![alt text](https://i.imgur.com/Uzz5qO7.png)
 
 #### Enclosures for animals
 
@@ -94,7 +94,7 @@ In European temperate lowlands the most important management form to produce fir
 
 The coppice system is based on the biological fact that after cutting broadleaved trees regenerate vegetatively by growing shoots either from the stool (the part of the tree that remains in the ground) or from the root system. The same tree can be cut many times on a short rotation without losing its ability to grow new shoots.
 
-// IMG
+![alt text](https://i.imgur.com/oxHpXNr.png)
 
 Young coppice shoots (generally referred to as underwood) were ideal for firewood: they could be harvested with minimal energy input and put straight on the fire. Individual shoots were usually tied up in a small bunch called a faggot, which was often measured by the cartload.
 
@@ -110,13 +110,13 @@ Trees for lumber (i.e. for building), on the other hand, had a (relatively) stra
 
 Pollarding is a very similar method to coppicing, however the tree is cut at the top as the picture opposite shows. It was preferred over coppicing in wood-pastures and other grazed areas, because animals would eat the regrowth from coppice stools.
 
-// IMG
+![alt text](https://i.imgur.com/LpiYzTZ.png)
 
 #### Wood pastures
 
 A wood pasture is an area of grazing land for livestock with trees. Traditionally, the trees are cut periodically for fuel and/or for additional fodder for the livestock. Under this form of management, the trees are cut and maintained as pollards. These pastures are quite open to allow grass to grow. Pigs were often kept in these types of pastures to give them a supply of acorns - the 14th century manuscript opposite shows swineherds beating down acorns from oak pollards for their pigs.
 
-// IMG
+![alt text](https://i.imgur.com/q3hkJTT.jpg)
 
 ### Crop farming
 
@@ -146,7 +146,7 @@ Example two field rotation:
 
 A more detailed example of three field rotation:
 
-// IMG
+![alt text](https://i.imgur.com/dsjCYZV.jpg)
 
 Note that September is marked considering the server is set in that month.
 
@@ -157,11 +157,11 @@ Can be used in villages/towns/cities. Small farms and homesteads should use a sy
 The arable land belonging to a manor or town was divided into many long narrow strips for cultivation. Very long strips were ideal, since the plough would be hard to turn around. The fields of cultivated land were unfenced, hence the name open-field system. Each tenant of the manor cultivated several strips of land scattered around the manor. The reason for this was to make sure that each peasant had a portion both of the good land and of the bad. This arrangement compelled all the peasants to labor according to a common plan. A man had to sow the same kinds of crops as his neighbors, and to till and reap them at the same time.
 Besides farmland each peasant had certain rights over the non-arable land. He could cut a limited amount of hay from the meadow. In the woodlands the peasants would have certain rights to collect wood.
 
-// IMG
+![alt text](https://i.imgur.com/FmrhRwV.jpg)
 
 The diagram shows a typical manor system from the Middle Ages. Notice the ‘Fallow’, ‘Spring Planting’ and ‘Autumn Planting’ labels, which show the three-field system is in use here.
 
-// IMG
+![alt text](https://i.imgur.com/LTkzVXy.jpg)
 
 The satellite image above shows one of the very few places left in the UK where the open-field system survives. Strips have been consolidated to provide workable parcels of land for tractors; the result today is that the average strip size has increased significantly over mediaeval times. However, this gives a fairly good impression of how this system would have looked.
 
@@ -194,7 +194,7 @@ Type 2:
 -	Preferably a stone floor, or solid dirt or clay.
 -	Threshing can also take place within barns.
 
-// IMG
+![alt text](https://i.imgur.com/MAxd33w.jpg)
 
 -	Video examples [here](https://www.youtube.com/watch?v=B5kXm4sa0p4) (with flail) and [here](https://www.youtube.com/watch?v=1a1mvI8-gM0) (with animals).
 
@@ -208,15 +208,15 @@ A mill (or gristmill, as it is more properly known) grinds threshed grain into f
 
 A windmill converts the energy of wind into rotational energy by means of vanes called sails.  In the diagram to the bottom right, the blue wheel, known as the brakewheel, rotates along with the sails on a vertical plane. It interlocks with the red wheel, known as the wallower, which rotates on a horizontal plane. The wallower is attached to a shaft (marked in yellow) which goes down the length of the mill and powers the millstone, which crushes the grain.
 
-// IMG
+![alt text](https://i.imgur.com/36Ztdq9.png)
 
 A watermill is a structure that uses a water wheel to drive the milling process. The diagram to the left shows how a common watermill mechanism would work.
 
-// IMG
+![alt text](https://i.imgur.com/NOOHVDX.png)
 
 For smaller-scale mills, you can also make a hand-driven or horse/ox-driven version. Here is an example in Minecraft:
 
-// IMG
+![alt text](https://i.imgur.com/wIqJZVQ.png)
 
 ### Livestock Farming
 
@@ -228,7 +228,7 @@ In an open-field system, pastures would be shared in so-called “common pasture
 
 A meadow is a grassland which is not regularly grazed by domestic livestock, but rather allowed to grow unchecked in order to produce hay. Meadows are typically lowland or upland fields. Pollards or coppiced trees is a common feature inside a meadow.
 
-// IMG
+![alt text](https://i.imgur.com/cjE8yKa.png)
 
 A meadow is a vital part of the medieval farming system. More hay -> more livestock -> more manure -> bigger fields and better yield.
 
@@ -238,7 +238,7 @@ A wet meadow is a type of wetland with soils that are saturated for part or all 
 
 Within the Open Fields there are grassed areas known as 'sykes' (pronounced 'six') which are not assigned to any of the farm tenancies and have never been farmed. Farmers have grazing rights over the sykes. The sykes are either too steep or too wet or were reserved for turning the horses when ploughing. They often contain a road, a drainage ditch or both
 
-// IMG
+![alt text](https://i.imgur.com/BDl0DvL.jpg)
 
 The image above shows the sykes in one of the open-fields in the village of Laxton.
 
@@ -256,6 +256,6 @@ Barns can have multiple uses, including threshing and storage for equipment, fod
 
 It is therefore important to make your barn(s) big enough to house all the animals that your farmer owns.
 
-// IMG
+![alt text](https://i.imgur.com/rh8Hpl2.jpg)
 
 It is also possible (and was common in the Middle Ages) for farmers and their families to live in the same building as their animals, combining the barn and farmhouse. A boô is an old Saxon building where a farmer could spend the night with his cattle if he let them graze far outside the village.
