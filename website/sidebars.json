@@ -10,7 +10,8 @@
     "Server": [
       "commands",
       "plugins",
-      "development"
+      "development",
+      "cinema4d"
     ],
     "Guides": [
       "plants_nature",
