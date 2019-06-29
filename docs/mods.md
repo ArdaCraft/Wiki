@@ -17,7 +17,7 @@ Conquest Reforged
 DaFlight
 - [Link](https://github.com/DaFlight/DaFlight)
 - Author: dags_
-- Version: 5.2.2
+- Version: 5.2.3
 
 NoClip
 - [Link](https://github.com/DaFlight/NoClip)
