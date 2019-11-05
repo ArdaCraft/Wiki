@@ -4,6 +4,7 @@ title: Commands
 ---
 
 ## Relighter (ops only)
+
 Forces the server to recalculate the sky light values for the given chunk(s).
 
 | Command | Description | Notes |
