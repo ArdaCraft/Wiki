@@ -1,4 +1,4 @@
-# Wiki [![Build Status](https://travis-ci.org/ArdaCraft/Wiki.svg?branch=master)](https://travis-ci.org/ArdaCraft/Wiki)
+# Wiki [![Build Status](https://travis-ci.com/ArdaCraft/Wiki.svg?branch=master)](https://travis-ci.com/ArdaCraft/Wiki)
 
 A wiki for general server info
 
