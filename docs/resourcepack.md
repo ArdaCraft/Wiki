@@ -1,4 +1,5 @@
 ---
+---
 id: resourcepack
 title: Resourcepack
 ---
