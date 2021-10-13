@@ -37,9 +37,6 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
         defaultMode: 'light',
         disableSwitch: true,
       },
-      googleAnalytics: {
-        trackingID: 'G-F9S9Y9S8EQ',
-      },
       gtag: {
         trackingID: 'G-F9S9Y9S8EQ',
       },
