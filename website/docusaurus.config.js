@@ -10,7 +10,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/favicon.png',
   organizationName: 'ArdaCraft',
   projectName: 'Wiki',
 
@@ -47,16 +47,9 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
         title: 'ArdaCraft Wiki',
         logo: {
           alt: 'ArdaCraft Logo',
-          src: 'img/logo.svg',
+          src: 'img/logo.png',
         },
-        items: [
-          {
-            type: 'doc',
-            docId: 'intro',
-            position: 'left',
-            label: 'About',
-          },
-        ],
+        items: [],
       },
       footer: {},
     }),
