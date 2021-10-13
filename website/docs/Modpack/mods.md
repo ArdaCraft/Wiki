@@ -34,7 +34,7 @@ Optifine
 
 LiteLoader
 
--   [Link](http://www.liteloader.com)
+-   [Link](https://www.liteloader.com)
 -   Author: Mumfrey
 -   Version: 1.12.2
 

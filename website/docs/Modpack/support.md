@@ -101,4 +101,4 @@ See this article on how to uninstall Java on Mac OS: [howtogeek.com](https://www
 
 #### Windows
 
-See this article on how to uninstall Java on Windows: [guidingtech.com](http://www.guidingtech.com/20274/completely-remove-uninstall-java-windows-pc/)
+See this article on how to uninstall Java on Windows: [guidingtech.com](https://www.guidingtech.com/20274/completely-remove-uninstall-java-windows-pc/)

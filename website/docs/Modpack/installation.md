@@ -78,7 +78,7 @@ If you prefer to use the default Minecraft Launcher, or have troubles with the A
 
 -   You can download the mods yourself, or download the mods used in our launcher [here](https://github.com/ArdaCraft/modpack/releases).
 
-1.  First install [Forge](http://files.minecraftforge.net/maven/net/minecraftforge/forge/index_1.12.2.html) for Minecraft 1.12.2.
+1.  First install [Forge](https://files.minecraftforge.net/maven/net/minecraftforge/forge/index_1.12.2.html) for Minecraft 1.12.2.
 2.  Run Minecraft with the Forge profile enabled.
 3.  Download Conquest Reforged [here](https://minecraft.curseforge.com/projects/conquest-reforged/files)
 4.  Put the `ConquestReforged-mc1.12.2.jar` in your Minecraft's `mods` folder.

@@ -4,7 +4,7 @@ title: Arnor Ruins
 ---
 ## Planning
 
-If you are leading an Arnorian ruined town, you'll need to lay everything out in wool first. Though the [Project Planning Guide](https://wiki.ardacraft.me/docs/project_planning) covers the basics of planning a project, there are some specifics to address.
+If you are leading an Arnorian ruined town, you'll need to lay everything out in wool first. Though the [Project Planning Guide](https://wiki.ardacraft.me/Guides/project_planning) covers the basics of planning a project, there are some specifics to address.
 
 Firstly, this generator should prove very useful in coming up with a basic layout:
 
