@@ -4,34 +4,14 @@ slug: /
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# ArdaCraft Wiki
 
-Let's discover **Docusaurus in less than 5 minutes**.
+Building Middle-Earth in Minecraft.
 
 ## Getting Started
 
-Get started by **creating a new site**.
+Get started by looked at our documents on the sidebar to the left.
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+## Have a document you want to add?
 
-## Generate a new site
-
-Generate a new Docusaurus site using the **classic template**:
-
-```shell
-npx @docusaurus/init@latest init my-website classic
-```
-
-## Start your site
-
-Run the development server:
-
-```shell
-cd my-website
-
-npx docusaurus start
-```
-
-Your site starts at `http://localhost:3000`.
-
-Open `docs/intro.md` and edit some lines: the site **reloads automatically** and display your changes.
+Click the edit this page link on the bottom and you can create documents on our Github.
